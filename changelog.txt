@@ -1,0 +1,20 @@
+___vk.py
+
+v - if response is error - return the message
+v - analyse possible track title mismatch situation
+v - "track not found" situation handling
+v - put tracks into separate folder. Name it with current timestamp
+v - try with 2-3 tracks
+x - renew access_token automatically - impossible wo 3rd party tools for standalone type of app
+v - probably solved issue with cyrillic titles
+
+- combine with track list from last.fm part
+- GUI ?
+
+
+___last_fm.py
+- get_friends_list
+- get_loved_tracks (for each friend)
+- get_artists_to_exclude
+- combine and save lists. exclude list. exclude duplicates
+- combine with vk.py
