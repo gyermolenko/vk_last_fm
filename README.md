@@ -1,5 +1,5 @@
 # vk_last_fm
-Download tracks loved in last.fm via VK API.
+Download tracks loved in [last.fm](http://www.last.fm/) with help of [VKontakte API](http://vk.com/dev/apiusage).
 
 ## This application does 2 major things:
 ####  - last_fm.py
