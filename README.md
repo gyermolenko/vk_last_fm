@@ -6,7 +6,7 @@ Download tracks loved in [last.fm](http://www.last.fm/) with help of [VKontakte 
   - gets list of friends 
   - gets list of loved trackd for each of them
   - checks which artists have low play-count (no reason to download songs of artists you alreasy listen to)
-  - __accumulate list for download__
+  - __accumulates list for download__
   
 ####    - vk.py
   - __gets tracks from lists__
